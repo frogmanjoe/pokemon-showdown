@@ -1925,7 +1925,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	magneton: {
 		num: 82,
 		name: "Magneton",
-		types: ["Electric", "Steel"],
+		types: ["Ground"],
 		gender: "N",
 		baseStats: {hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70},
 		abilities: {0: "Magnet Pull", 1: "Sturdy", H: "Analytic"},
